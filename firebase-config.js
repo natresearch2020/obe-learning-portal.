@@ -1,5 +1,5 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyBUFoacc_e-RPCCAFm-YICSdNkYrc0rArs",
   authDomain: "obe-learning.firebaseapp.com",
   projectId: "obe-learning",
